@@ -1,0 +1,49 @@
+
+body {
+  margin: 0 auto;
+    text-align: center;
+}
+  header {
+    margin: 0 auto;
+    padding: 7px 30px;
+    background-color: orange;
+    font-family: "Archivo Black";
+    letter-spacing: 2px;
+    color: black;
+    text-align: center;
+}
+
+#badan {
+  margin: 0 auto ;
+  padding: 10px;
+  background-color: grey;
+  color: whitesmoke;
+}
+.hints {
+  text-align: center;
+  font-family: "Archivo Black";
+  
+}
+h1 {
+  font-size: 30px;
+}
+
+.tombol {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+button {
+  font-size: 12px;
+  padding: 10px 0 10px 0;
+}
+
+footer {
+  background-color: orange;
+  margin: 0 auto;
+  padding: 5px 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 2px;
+  color: black;
+  text-align: center;
+}
